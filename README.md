@@ -1,7 +1,7 @@
 # ANZ_Data_Virtual_Internship
  Code pertaining to the ANZ Data Virtual Internship program
 
- Task 1:
+ ##Task 1:
 
 Load the transaction dataset below into an analysis tool of your choice (Excel, R, SAS, Tableau, or similar)
 
@@ -16,7 +16,7 @@ For a challenge – what insights can you draw from the location information pro
 Put together 2-3 slides summarising your most interesting findings to ANZ management.
 
 
-Task 2:
+##Task 2:
 
 For this task, you’ll likely need to use statistical software such as R, SAS, or Python.
 
