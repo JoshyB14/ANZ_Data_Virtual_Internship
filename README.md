@@ -1,6 +1,12 @@
 # ANZ_Data_Virtual_Internship
  Code pertaining to the ANZ Data Virtual Internship program
 
+ [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+ 
+ [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
+
  ## Task 1:
 
 Load the transaction dataset below into an analysis tool of your choice (Excel, R, SAS, Tableau, or similar)
